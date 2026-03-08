@@ -1,8 +1,10 @@
 #!/usr/bin/env bash
 general=(
+    "tmux"
     "wget"
     "curl"
     "git"
+    "fd-find"
     "rsync"
     "unzip"
     "tar"

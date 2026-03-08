@@ -27,12 +27,12 @@ Copy the following url into the Dotfiles Installer and start the installation.
 #### Stable Release
 
 ```
-https://raw.githubusercontent.com/mylinuxforwork/dotfiles/main/hyprland-dotfiles-stable.dotinst
+https://raw.githubusercontent.com/nukelheadmp/dotfiles/main/hyprland-dotfiles-stable.dotinst
 ```
 #### Rolling Release
 
 ```
-https://raw.githubusercontent.com/mylinuxforwork/dotfiles/main/hyprland-dotfiles.dotinst
+https://raw.githubusercontent.com/nukelheadmp/dotfiles/main/hyprland-dotfiles.dotinst
 ```
 
 Setup scripts to install the required dependencies are included for <i class="devicon-archlinux-plain"></i> **Arch, <i class="devicon-fedora-plain"></i> Fedora and <i class="devicon-opensuse-plain"></i> openSuse Tumbleweed**.<br>

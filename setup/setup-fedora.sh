@@ -147,7 +147,13 @@ fi
 # Oh My Posh
 # --------------------------------------------------------------
 
-curl -s https://ohmyposh.dev/install.sh | bash -s -- -d ~/.local/bin
+#curl -s https://ohmyposh.dev/install.sh | bash -s -- -d ~/.local/bin
+
+# --------------------------------------------------------------
+# Starship (replaces Oh My Posh)
+# --------------------------------------------------------------
+
+curl -sS https://starship.rs/install.sh | sh
 
 # --------------------------------------------------------------
 # Prebuild Packages

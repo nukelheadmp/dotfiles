@@ -8,3 +8,5 @@ sudo dnf copr enable --assumeyes wef/cliphist
 sudo dnf copr enable --assumeyes tofik/nwg-shell
 sudo dnf copr enable --assumeyes che/nerd-fonts
 sudo dnf copr enable --assumeyes erikreider/SwayNotificationCenter
+sudo dnf copr enable --assumeyes atim/starship
+sudo dnf copr enable --assumeyes dejan/lazygit

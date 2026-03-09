@@ -49,6 +49,7 @@ packages=(
     "qt6-qtmultimedia"
     # System
     "gvfs-mtp"
+    "starship"
     "lazygit"
 )
 
@@ -116,6 +117,7 @@ sudo dnf copr enable --assumeyes wef/cliphist
 sudo dnf copr enable --assumeyes tofik/nwg-shell
 sudo dnf copr enable --assumeyes che/nerd-fonts
 sudo dnf copr enable --assumeyes erikreider/SwayNotificationCenter
+sudo dnf copr enable --assumeyes atim/starship
 sudo dnf copr enable --assumeyes dejan/lazygit
 
 # --------------------------------------------------------------
@@ -161,12 +163,6 @@ fi
 # --------------------------------------------------------------
 
 #curl -s https://ohmyposh.dev/install.sh | bash -s -- -d ~/.local/bin
-
-# --------------------------------------------------------------
-# Starship (replaces Oh My Posh)
-# --------------------------------------------------------------
-
-curl -sS https://starship.rs/install.sh | sh -s -- -y
 
 # --------------------------------------------------------------
 # Prebuild Packages
